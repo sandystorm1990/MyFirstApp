@@ -1,3 +1,29 @@
 <resources>
     <string name="app_name">MyFirstApp</string>
+    <string name="hello_world">Hello Android</string>
+    <string name="ok">OK</string>
+    <string name="input_placeholder">Enter your name</string>
+    <string name="enterHint">Enter your name</string>
+    <string name="constraint_layout">ConstraintLayoutApp</string>
+    <string name="name_lb">What is your name?</string>
+    <string name="question_lb">What is your quest?</string>
+    <string name="content_ph">To find the Holy Grail of Layouts</string>
+    <string name="app_list">List</string>
+    <string name="spinner_list">SpinnerApp</string>
+
+    <string-array name="list_items">
+        <item>Homer</item>
+        <item>Marge</item>
+        <item>Bart</item>
+        <item>Lisa</item>
+        <item>Maggie</item>
+    </string-array>
+
+    <string-array name="dropdownItems">
+        <item>One Tequila</item>
+        <item>Two Tequila</item>
+        <item>Three Tequila</item>
+        <item>Floor</item>
+        <item>None</item>
+    </string-array>
 </resources>
